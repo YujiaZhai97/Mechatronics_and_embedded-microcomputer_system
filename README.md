@@ -1,2 +1,2 @@
 # Mechatronics_and_embedded-microcomputer_system
-Columbia Univeristy MECE4058 Class Projects
+Columbia univeristy MECE4058 course projects
